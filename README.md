@@ -62,5 +62,5 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 ### 🛠️ My Projects
 <a href="https://github.com/said-boutayeb/staylix-1" target="_blank"> <img alt="artistify" src="https://said-boutayeb.github.io/staylix-1/images/logo.png" height="68" align="left"> </a>
 <a href="https://said-boutayeb.github.io/staylix-2/" target="_blank"> <img alt="sheetsdatabase" src="https://said-boutayeb.github.io/staylix-2/image/logo.png"  height="68" align="left"> </a>
-<a href="https://said-boutayeb.github.io/staylix-3/" target="_blank"> Astra<span  style="color: red;>Lix</span> </a>
+<a href="https://said-boutayeb.github.io/staylix-3/" target="_blank"> Astra<span style="color: red;>Lix</span> </a>
 

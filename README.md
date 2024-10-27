@@ -1,4 +1,12 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=said-boutayeb.said-boutayeb">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Said+Boutayeb....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+<br/>
+<hr>
+<br/>
 <a href='https://www.linkedin.com/in/said-boutayeb-013008267/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='https://x.com/said_Boutayeb_1?t=fEYyleXNmyDsyIv4U-pxfg&s=09'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
 

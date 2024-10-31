@@ -73,17 +73,17 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
   </thead>
   <tbody>
     <tr>
-      <td><a href='https://todo-codewithkeshav.herokuapp.com'>Todo-App</a></td>
+      <td><a href='https://github.com/said-boutayeb/staylix-1'>staylix-1</a></td>
       <td>Python</td>
       <td>this is my first flask project</td>
     </tr>
     <tr>
-      <td><a href='https://keshavsingh4522.github.io/Projects/Calculator/'>Calculator</a></td>
+      <td><a href='https://github.com/said-boutayeb/staylix-2'>staylix-2</a></td>
       <td>Html,Css</td>
       <td>It is a simple calculator which do +,-,\*,/  operation</td>
     </tr>
     <tr>
-      <td><a href="https://keshavsingh4522.github.io/Projects/CodeEditor/">CodeEditor</a></td>
+      <td><a href="https://github.com/said-boutayeb/staylix-3">staylix-3</a></td>
       <td>HTML,CSS,Javascript</td>
       <td>write html cod here and the result will display there</td>
     </tr>

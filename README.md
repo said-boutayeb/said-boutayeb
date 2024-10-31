@@ -8,7 +8,7 @@
 
 <a href='https://www.linkedin.com/in/said-boutayeb-013008267/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='https://x.com/said_Boutayeb_1?t=fEYyleXNmyDsyIv4U-pxfg&s=09'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
-<a href='https://x.com/said_Boutayeb_1?t=fEYyleXNmyDsyIv4U-pxfg&s=09'><img align='left' alt="twitter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png" height='18px'/></a>
+<a href='https://x.com/said_Boutayeb_1?t=fEYyleXNmyDsyIv4U-pxfg&s=09'><img align='left' alt="twitter" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s" height='18px'/></a>
 
 <br/>
 

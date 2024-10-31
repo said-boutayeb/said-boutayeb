@@ -61,8 +61,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 
 <!-- start work project section -->
-<details>
-<summary><b> My Work Project :point_right:</b></summary>
+
+<b> My Work Project :point_right:</b>
 <table>
   <thead>
     <tr>
@@ -109,7 +109,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
     </tr>
   </tbody>
 </table>
-</details>
+
 <!-- end work project section -->
 
 <h4 align="center">

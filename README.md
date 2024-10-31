@@ -113,6 +113,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <!-- end work project section -->
 
 <h4 align="center">
-  <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/said-boutayeb?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 

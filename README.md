@@ -74,7 +74,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
   <tbody>
     <tr>
       <td><a href='https://github.com/said-boutayeb/staylix-1'>staylix-1</a></td>
-      <td>Python</td>
+      <td>Html,Css</td>
       <td>this is my first flask project</td>
     </tr>
     <tr>
@@ -84,7 +84,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
     </tr>
     <tr>
       <td><a href="https://github.com/said-boutayeb/staylix-3">staylix-3</a></td>
-      <td>HTML,CSS,Javascript</td>
+      <td>HTML,CSS</td>
       <td>write html cod here and the result will display there</td>
     </tr>
     <tr>

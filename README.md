@@ -40,7 +40,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/130px-CSS3_logo.svg.png" align="left" alt="git" height='42px'/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png" align="left" alt="git" height='42px'/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/130px-Sass_Logo_Color.svg.png" align="left" alt="git" height='42px'/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAMFBMVEVHcEwGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttQGttRJPW7aAAAAD3RSTlMA9Guk3wsoSlfIGS+UvSLQl2PAAAAAoElEQVQokc2RwRKFIAhFFVQU7fH/f5uWMK+sfSx09MDAvTj34UgZIKdnhMGL+IB1ZRRkhs93xsWHUXlQOP9+CgEpVShK2blIoDDzOKtSBGiFFMbzqpt1lhbXmRU2tkLLitQldUEUn56XVG5TgeDiTmzilW71Ml13pjQAnLgclM0iGK0YlEJNhKZ+eqR0mFhMhFmkjSXQnf2t7GWj78v+SOwSxAg4pjzCWQAAAABJRU5ErkJggg==" align="left" alt="git" height='42px'/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tailwind_CSS_logo.svg/200px-Tailwind_CSS_logo.svg.png" align="left" alt="git" height='42px'/> </a>
 <br>
 
 

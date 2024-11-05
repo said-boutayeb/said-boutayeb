@@ -66,17 +66,17 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
     <tr>
       <td><a href='https://github.com/said-boutayeb/staylix-1'>staylix-1</a></td>
       <td>Html,Css</td>
-      <td>Simple project to learn</td>
+      <td>Simple project for learn</td>
     </tr>
     <tr>
       <td><a href='https://github.com/said-boutayeb/staylix-2'>staylix-2</a></td>
       <td>Html,Css</td>
-      <td>Simple project to learn</td>
+      <td>Simple project for learn</td>
     </tr>
     <tr>
       <td><a href="https://github.com/said-boutayeb/staylix-3">staylix-3</a></td>
       <td>HTML,CSS</td>
-      <td>Simple project to learn</td>
+      <td>Simple project for learn</td>
     </tr>
   </tbody>
 </table>

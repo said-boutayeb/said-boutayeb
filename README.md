@@ -78,26 +78,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
       <td>HTML,CSS</td>
       <td>write html cod here and the result will display there</td>
     </tr>
-    <tr>
-      <td><a href='https://keshavsingh4522.github.io/Projects/Wordpad/'>Wordpad</a></td>
-      <td>Html,CSS,Javascript</td>
-      <td>its functionality look like as wordpad</td>
-    </tr>
-    <tr>
-      <td><a href='https://keshavsingh4522.github.io/Projects/address%20maker/'>Address Maker</a></td>
-      <td>Html,CSS,Javascript</td>
-      <td> It generates an address in design format by filling in the details</td>
-    </tr>
-    <tr>
-      <td><a href="https://keshavsingh4522.github.io/Projects/switcher-app/">Switcher app</a></td>
-      <td>HTML,CSS,jQuery</td>
-      <td>It changes  the text color by dragging and dropping color on text</td>
-    </tr>
-    <tr>
-      <td><a href='https://keshavsingh4522.github.io/music-player/'>Music Player</a></td>
-      <td>HTML,HTML5,CSS,CSS3,Javascript,jQuery</td>
-      <td>add songs and play music, it also uses to store data in  INDEXEDB Database by which we can play songs, if we do not clear the catch then the song will remain stored in a database.</td>
-    </tr>
   </tbody>
 </table>
 

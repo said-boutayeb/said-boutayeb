@@ -66,17 +66,17 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
     <tr>
       <td><a href='https://github.com/said-boutayeb/staylix-1'>staylix-1</a></td>
       <td>Html,Css</td>
-      <td>this is my first flask project</td>
+      <td>Simple project to learn</td>
     </tr>
     <tr>
       <td><a href='https://github.com/said-boutayeb/staylix-2'>staylix-2</a></td>
       <td>Html,Css</td>
-      <td>It is a simple calculator which do +,-,\*,/  operation</td>
+      <td>Simple project to learn</td>
     </tr>
     <tr>
       <td><a href="https://github.com/said-boutayeb/staylix-3">staylix-3</a></td>
       <td>HTML,CSS</td>
-      <td>write html cod here and the result will display there</td>
+      <td>Simple project to learn</td>
     </tr>
   </tbody>
 </table>

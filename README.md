@@ -19,13 +19,12 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
+- 🔭 &nbsp; I’m currently working on **A project to help trainees enter the labor market in a guaranteed manner**
 - 🤝 &nbsp; I’m looking to collaborate on [sheets-database](link)
-- 🌱 &nbsp; I’m currently learning Typescript; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](link)
-- 🎨 &nbsp; Using [this svg](link) and Figma I made 👉
+- 🌱 &nbsp; I’m currently learning react.js / Typescript; 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/said-boutayeb?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](link)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/said-boutayeb-013008267/)
 - 📝 &nbsp; Checkout my [resume](link)
 - 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](link) to see the book I have read
 

@@ -44,7 +44,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <br>
 
-
+<br>
 <!-- start work project section -->
 
 <b> My Work Project :point_right:</b>

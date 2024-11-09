@@ -15,7 +15,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Ffull-stack-developer&psig=AOvVaw04LEOYlkmcOplmWk0i20TY&ust=1731239476209000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIigrO2Xz4kDFQAAAAAdAAAAABAE"/>
+<img align="right" alt="GIF" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?t=st=1731153218~exp=1731156818~hmac=68fd7fcd899e17f9133ce4a4db978900853191a5d2379ae788a8cbaf199221d7&w=740"/>
   
 ### 🧐 More About Me:
 
